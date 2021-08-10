@@ -1,0 +1,22 @@
+Server invite:
+
+Variaveis:0
+Gatilhos:0
+
+$nomention
+$deletecommand
+$title[Entre no nosso server!]
+$description[Ei vocês aí,<@$authorID> está convidando a todos para o server dele,caso queiram entrar apenas clique **[aqui]($getServerInvite)**!]
+$addTimestamp
+$color[FF000]
+
+Invite:
+
+Variaveis:0
+Gatilhos:0
+
+$nomention
+$title[Me adicione!]
+$description[Você gostou de mim? Então me adicione clicando **[aqui]($getBotInvite)**!]
+$addTimestamp
+$color[FF000]
