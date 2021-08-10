@@ -1,0 +1,16 @@
+Variaveis:0
+Gatilhos:0
+
+$nomention
+$deletecommand
+$title[📪Correio📪]
+$description[
+📪De: $username
+
+🔎Para: <@$mentioned[1]>
+
+✉️Mensagem: $noMentionMessage]
+$dm[]
+$color[$random[1;99999]]
+$argsCheck[>1; :x: Menciome um usuário!]
+$argsCheck[>2; :x: Escreva uma mensagem para mandar!]
