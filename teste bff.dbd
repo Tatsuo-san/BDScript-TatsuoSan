@@ -1,0 +1,15 @@
+Variaveis:0
+Gatilhos:0
+
+$nomention
+$argsCheck[>1; Você não mencionou ngm]
+$title[BFF]
+$description[
+$allowMention
+ Será que temos um novo conjunto de BFF? 
+<@$mentioned[1]>  + 
+<@$mentioned[2]>
+--------------------------------
+$randomText[0% nem colegas;10% nem amigos nem colegas;20% talvez colegas;30% talvez amigos;40% amigos;50% amigos bem próximos;60%talvez melhores amigos;70% amigos bem próximos nível 2;80% melhores amigos;90% MUITO AMIGOS;100% BFF]]
+$image[https://acegif.com/wp-content/gif/anime-hug-6.gif]
+$color[f0205]
