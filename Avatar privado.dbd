@@ -1,0 +1,22 @@
+Variaveis:0
+Gatilhos:)
+
+$nomention
+$dm
+$title[AVATAR DO USUÁRIO]
+$userInfo[SOBRE ESSE NOIA:
+NOME:
+{username}
+
+ID:
+{ID}
+
+DISCRIMINATOR:
+{discriminator}
+
+CRIADO EM:
+$creationDate[$mentioned[1]]]
+$allowMention
+$image[$userAvatar[$mentioned[1]]]
+$footer[pedido por $username]
+$color[ff0000]
