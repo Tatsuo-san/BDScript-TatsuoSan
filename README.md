@@ -1,6 +1,6 @@
 # BDScript-TatsuoSan
 
-Olá meu nome é Tatsuo do canal Tatsuo-San, esse repositorio foi criado para nostrar comandos que serão ensinados nos videos aqui, então para que possam ver os codigos:
+Olá meu nome é Tatsuo do canal Tatsuo-San, esse repositorio foi criado para mostrar comandos que serão ensinados nos videos aqui, então para que possam ver os codigos:
 
 Android:
 
