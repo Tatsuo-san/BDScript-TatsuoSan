@@ -1,9 +1,6 @@
-Variaveis:0
-Gatilhos:)
-
 $nomention
 $dm
-$title[AVATAR DO USUÁRIO]
+$title[INFORMAÇÕES DO USUÁRIOS]
 $userInfo[SOBRE ESSE NOIA:
 NOME:
 {username}
@@ -17,6 +14,6 @@ DISCRIMINATOR:
 CRIADO EM:
 $creationDate[$mentioned[1]]]
 $allowMention
-$image[$userAvatar[$mentioned[1]]]
+$image[$userAvatar[$mentioned[1]]]]]
 $footer[pedido por $username]
 $color[ff0000]
