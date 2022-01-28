@@ -1,5 +1,8 @@
-Variaveis:0
-Gatilhos:0
+Variáveis:0
+
+Gatilho:<prefixo>carta
+
+Script:
 
 $nomention
 $deletecommand
