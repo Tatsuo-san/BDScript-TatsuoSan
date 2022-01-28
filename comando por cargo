@@ -1,0 +1,13 @@
+Variáveis:0
+
+Gatilho:<prefixo> <nome do comando>
+
+Script:
+
+$nomention
+$title[Comando]
+$description[Comando amigo]
+$color[$random[1;9999]]
+$footer[Comando utilizado por <@$authorID>]
+$addTimestamp
+$onlyForRoleIDs[id do cargo que você quer que bloqueie;Apenas este cargo pode usar este comando!!!]
