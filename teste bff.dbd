@@ -1,5 +1,8 @@
 Variaveis:0
-Gatilhos:0
+
+Gatilhos:<prefixo>bff
+
+Script:
 
 $nomention
 $argsCheck[>1; Você não mencionou ngm]
