@@ -1,0 +1,30 @@
+Variáveis:0
+
+Gatilho:<prefixo>botinfo
+
+Script:
+
+$nomention
+$title[Minhas Informações!]
+$color[$random[1;9999]]
+$thumbnail[$authorAvatar]
+$description[Olá!Eu sou o **Nome do seu bot**, fui criado por **<@894714782190546954>**, coloque uma descrição do seu bot, veja minhas informações abaixo:
+
+📧 | **Me Adicione clicando** [aqui]($getBotInvite)
+
+❓ | **Entre no meu servidor suporte** [aqui](coloque o seu servidor )
+
+🤖 | **Meu nome:** <@$botID>
+
+📆 | **Criado em:token do seu bot** - $creationDate[$botID]
+$time[Brazil/East]
+
+🔩 | **Prefixo:** `Prefixo do seu bot`
+
+👑 | **Desenvolvedor:** `$username[seu id]#$discriminator[seu id]`
+
+📇 | **Comandos totais:** `$commandsCount`
+
+🔋 | **Ping:** `$ping`
+
+🧩 | **Linguagem:** [DBD](https://botdesignerdiscord.com/)]]
