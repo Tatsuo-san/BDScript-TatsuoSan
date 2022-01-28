@@ -1,0 +1,23 @@
+Responder menção(celular):
+
+Variáveis:0
+
+Gatilho:<@id do seu bot aqui>
+
+Script:
+
+$nomention
+Opa <@$authorID> eu sou o TatsuoBOT, fui criado por <@seu id>, sou um bot simples criado no BDFD, caso queira ver meus comandos utilize T.help
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Responder menção(pc)
+
+Variáveis:0
+
+Gatilho:<!@id do seu bot aqui>
+
+Script:
+
+$nomention
+Opa <@$authorID> eu sou o TatsuoBOT, fui criado por <@seu id>, sou um bot simples criado no BDFD, caso queira ver meus comandos utilize T.help
