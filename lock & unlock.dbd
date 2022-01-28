@@ -1,0 +1,33 @@
+Comando Lock
+
+Variáveis:0
+
+Gatilho:<prefixo>Lock
+
+Script(Lock):
+$nomention
+$modifyChannelPerms[$channelID;-sendmessages;$guildID]
+$title[🔒Canal Trancado!🔒]
+$description[🔒Este Canal Foi Trancado Por $username com sucesso!🔒]
+$onlyPerms[manageroles;❌ | Erro! Você Não Tem Permissão Para Usar Este Comando!]
+$color[$random[1;9999]]
+$globalCooldown[5s; Ei! espere 5 segundos para usar esse comandow novamente!]
+$deletecommand
+$deleteIn[5s]
+---------------------------------------------------------------------------------
+Comando Unlock
+
+Variáveis:0
+
+Gatilho:<prefixo>unlock
+
+Script(Unlock):
+
+$nomention
+$modifyChannelPerms[$channelID;+sendmessages;$guildID]
+$title[🔓Canal Destrancado!🔓]
+$description[🔓Este Canal Foi Destrancado Por $username! 🔓]
+$onlyPerms[manageroles;❌ | Erro! Você Não Tem Permissão Para Usar Este Comando!]
+$color[$random[1;9999]]
+$globalCooldown[5s; Ei! espere 5 segundos para usar esse comandow novamente!]
+$deletecommand
